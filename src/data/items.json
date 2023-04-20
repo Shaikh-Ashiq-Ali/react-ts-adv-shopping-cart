@@ -1,0 +1,32 @@
+[
+  {
+    "id" : 1,
+    "name" : "Apple",
+    "price" : 100,
+    "imgUrl" : "/public/images/apple.jpg"
+  },
+  {
+    "id" : 2,
+    "name" : "Blackberry",
+    "price" : 200,
+    "imgUrl" : "/public/images/blackberry.jpg"
+  },
+  {
+    "id" : 3,
+    "name" : "Guava",
+    "price" : 80,
+    "imgUrl" : "/public/images/guava.jpg"
+  },
+  {
+    "id" : 4,
+    "name" : "Orange",
+    "price" : 60,
+    "imgUrl" : "/public/images/orange.jpg"
+  },
+  {
+    "id" : 5,
+    "name" : "Pomegranate",
+    "price" : 120,
+    "imgUrl" : "/public/images/pomegranate.jpg"
+  }
+]
